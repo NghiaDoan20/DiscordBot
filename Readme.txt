@@ -1,0 +1,1 @@
+Purpose of this project is develop a personal assistant

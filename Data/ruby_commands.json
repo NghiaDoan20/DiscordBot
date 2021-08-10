@@ -1,0 +1,5 @@
+{
+    "weather": "Request weather. Default: Ho Chi Minh city. \nSystax: #weather {name of city} {name of country}",
+    "news" : "Get top news from vnexpress.vn",
+    "ping" : "return pong"
+}

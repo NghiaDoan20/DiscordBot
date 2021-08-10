@@ -1,0 +1,34 @@
+{
+    "Present Simple" : 
+    {
+        "used": 
+        {
+            "Present habbits" : "Ex: I goes to bar everyday",
+            "Permanent situations":  "Ex: Does John work at cinema",
+            "State": "Ex: I love you",
+            "General": "truth Ex Sun rises from East."
+        },
+        "Systax":
+        {
+            "Statement": "S + V/Vs/Ves + O",
+            "negative" : "S + do/does + not +V + O",
+            "question" : "Do/does + S + V"
+        }
+    },
+    "Present continuous":
+    {
+        "used":
+        {
+            "Activate happend now": "I'm watching TV",
+            "Temporary situation":  "I'm working at home until last month",
+            "anoying habits, use with always": "My brother is always borrowing my books without asking"
+        },
+        "Systax":
+        {
+            "Statement": "S + tobe+ Ving + O",
+            "negative": "S + tobe + not + Ving",
+            "question": "Tobe + S+ Ving + O"
+        }
+    }
+
+}
